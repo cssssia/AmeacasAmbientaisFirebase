@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164581256884",
+    "project_id": "ameacasambientaisfirebas-16c03",
+    "storage_bucket": "ameacasambientaisfirebas-16c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164581256884:android:fe43ed5791265aae9731e1",
+        "android_client_info": {
+          "package_name": "com.example.ameacasambientaisfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164581256884-0o8ku9oto1pl0g9ajs8dmp8qnats6071.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYsMduYE5CER0cDdO-DMUmlJyo1h4bGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164581256884-0o8ku9oto1pl0g9ajs8dmp8qnats6071.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
